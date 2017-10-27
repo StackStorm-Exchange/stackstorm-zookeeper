@@ -5,7 +5,7 @@ from uuid import uuid4
 
 from kazoo.client import KazooClient
 
-from st2actions.runners.pythonrunner import Action
+from st2common.runners.base_action import Action
 
 
 class NonBlockingLease(Action):
