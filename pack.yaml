@@ -5,3 +5,6 @@ description: Zookeeper Coordination Server
 version: 0.2.2
 author: Cody A. Ray
 email: talktome@codyaray.com
+python_versions:
+  - "2"
+  - "3"
