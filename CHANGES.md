@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.3
+
+- Add explicit support for Python 2 and 3
+
 ## 0.2.2
 
 - Version bump to fix tagging issue. No code changes
